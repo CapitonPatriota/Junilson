@@ -7,14 +7,16 @@ header {
     justify-content: center;
 }
 
-ul {
+.navLista {
     display: flex;
     list-style: none;
 font-size: 40px;
     gap: 28px;
     text-transform: uppercase;
     .nav-item :hover{
-        cursor: ;color: black;
+        cursor: color
         background-color: aliceblue;
+
     }
+
 }
