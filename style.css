@@ -31,7 +31,7 @@ section{
 .moldura_videos {
 display: flex
     flex-wrap;
-    justify-content: ;
+    justify-content: space-around;
 }
 
 .secao ul{
