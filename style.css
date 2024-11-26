@@ -28,6 +28,12 @@ section{
     padding-top: 2%;
 }
 
+.moldura_videos {
+display: flex
+    flex-wrap;
+    justify-content: ;
+}
+
 .secao ul{
     display: flex;
     gap: 3vw;
